@@ -1,8 +1,6 @@
 # Tela Kit
 
-<div align="center">
-![telabanner](https://github.com/user-attachments/assets/14b9064a-7068-4b29-a340-5795d4a2ffda)
-</div>
+![telabanner](https://github.com/user-attachments/assets/e613551e-9b71-400b-8b76-95fa47bcae0a)
 
 A dual-language package (Go/Rust) for building and managing LLM function calling tools and toolkits. Built specifically for Zen.
 
