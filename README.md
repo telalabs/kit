@@ -1,8 +1,9 @@
-# Tela Kit
+# QQKit
 
-![telabanner](https://github.com/user-attachments/assets/e613551e-9b71-400b-8b76-95fa47bcae0a)
+![QQTbanner](https://github.com/user-attachments/assets/d89bfb72-2011-4fbf-b898-988108214842)
 
-A dual-language package (Go/Rust) for building and managing LLM function calling tools and toolkits. Built specifically for Thor.
+
+A dual-language package (Go/Rust) for building and managing LLM function calling tools and toolkits. Built specifically for QQ.
 
 ## Features
 
@@ -17,13 +18,13 @@ A dual-language package (Go/Rust) for building and managing LLM function calling
 
 ### Go
 ```bash
-go get github.com/telalabs/kit/go
+go get github.com/QQTechnologies/QQ/go
 ```
 
 ### Rust
 ```toml
 [dependencies]
-toolkit = { git = "https://github.com/telalabs/kit", subdirectory = "rust" }
+toolkit = { git = "https://github.com/QQTechnologies/kit", subdirectory = "rust" }
 ```
 
 ## Usage
